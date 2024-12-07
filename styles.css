@@ -1,0 +1,22 @@
+/* Custom Styles */
+.header-section {
+    background-color: #f2545b;
+    color: white;
+    padding: 50px 0;
+}
+
+.services-section {
+    background-color: #2d2d2d;
+}
+
+.portfolio-section img {
+    margin-bottom: 20px;
+}
+
+.team-section img {
+    border: 3px solid #f2545b;
+}
+
+.footer {
+    background-color: #343a40;
+}
